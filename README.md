@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I am Chandan Mahto and I am a Full Stack Developer.
+
+## Skills
+- TypeScript, Python, Java
+- React
+- Django, NodeJS
+
+## Contact
+- [Email](mailto:mahto.chandan.3000@gmail.com)
+- [Twitter](https://twitter.com/chandan00761)
+
 <!--
 **chandan00761/chandan00761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +26,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandan00761)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats
+[![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandan00761)](https://github.com/chandan00761?tab=repositories)
