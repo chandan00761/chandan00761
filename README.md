@@ -11,6 +11,9 @@ I am Chandan Mahto and I am a Full Stack Developer.
 - [Email](mailto:mahto.chandan.3000@gmail.com)
 - [Twitter](https://twitter.com/chandan00761)
 
+## Resume
+📃 [Google Drive Link](https://drive.google.com/file/d/1cKJ_5rzfsL6qAYUWsjLuftiIrqXuu13J/view?usp=sharing)
+
 <!--
 **chandan00761/chandan00761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
