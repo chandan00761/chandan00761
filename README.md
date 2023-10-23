@@ -12,7 +12,7 @@ I am Chandan Mahto and I am a Full Stack Developer.
 - [Twitter](https://twitter.com/chandan00761)
 
 ## Resume
-📃 [Google Drive Link](https://drive.google.com/file/d/1cKJ_5rzfsL6qAYUWsjLuftiIrqXuu13J/view?usp=sharing)
+📃 [Google Drive Link](https://drive.google.com/file/d/1kGksPaQOgPHWkftYIbNWsesP26u0fWUJ/view?usp=share_link)
 
 <!--
 **chandan00761/chandan00761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
