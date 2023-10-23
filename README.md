@@ -9,7 +9,7 @@ I am Chandan Mahto and I am a Full Stack Developer.
 
 ## Contact
 - [Email](mailto:mahto.chandan.3000@gmail.com)
-- [Twitter](https://twitter.com/chandan00761)
+- [LinkedIn](https://www.linkedin.com/in/chandan-mahto-7b26a2163/)
 
 ## Resume
 📃 [Google Drive Link](https://drive.google.com/file/d/1kGksPaQOgPHWkftYIbNWsesP26u0fWUJ/view?usp=share_link)
